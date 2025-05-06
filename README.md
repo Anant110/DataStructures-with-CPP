@@ -1,4 +1,4 @@
-# 🚀 Coding-with-CPP
+# 🚀 DataStructures-with-CPP
 
 This repository is a comprehensive collection of C++ programs and problems categorized by key topics in **Data Structures**, **Algorithms**, and **Core C++ concepts**.  
 It is designed to help in **DSA preparation**, **coding interviews**, and **competitive programming**.
