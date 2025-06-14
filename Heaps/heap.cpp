@@ -134,7 +134,7 @@ int main(){
     cout<<"Print the top element is "<<pq.top()<<endl;
     pq.pop();
 
-    cout<<"Print the to element is "<<pq.top()<<endl;
+    cout<<"Print the top element is "<<pq.top()<<endl;
     cout<<"Size is "<<pq.size()<<endl;
 
 
