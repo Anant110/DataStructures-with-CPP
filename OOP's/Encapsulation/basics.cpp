@@ -126,33 +126,33 @@
 // }
 
 
-// #include<bits/stdc++.h>
-// using namespace std;
+#include<bits/stdc++.h>
+using namespace std;
 
-// class Person{
-//     public:
-//     string name;
-//     int age;
-//     int marks;
+class Person{
+    public:
+    string name;
+    int age;
+    int marks;
 
-//     Person(string name,int age,int marks){
-//         this->name=name;
-//         this->age=age;
-//         this->marks=marks;
-//     }
+    Person(string name,int age,int marks){
+        this->name=name;
+        this->age=age;
+        this->marks=marks;
+    }
 
-//     void show(){
-//         cout<<"Name: "<<name<<endl;
-//         cout<<"Age: "<<age<<endl;
-//         cout<<"Marks:"<<marks<<endl;
-//     }
-// };
-// int main(){
-//     Person p1("Anant",34,90);
-//     // p1.show();
+    void show(){
+        cout<<"Name: "<<name<<endl;
+        cout<<"Age: "<<age<<endl;
+        cout<<"Marks:"<<marks<<endl;
+    }
+};
+int main(){
+    Person p1("Anant",34,90);
+    // p1.show();
 
-//     Person p2(p1);  //copy constructor;
-//     p2.show();
-// }
+    Person p2(p1);  //copy constructor;
+    p2.show();
+}
 
 
